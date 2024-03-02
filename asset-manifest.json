@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portif/static/css/main.bb7cb1da.css",
+    "main.js": "/Portif/static/js/main.fbe35dc1.js",
+    "static/media/classificationIcon.jpg": "/Portif/static/media/classificationIcon.5484be8551a5a3164c7f.jpg",
+    "static/media/NoGessingGame.png": "/Portif/static/media/NoGessingGame.1d33dea00ee34e07e498.png",
+    "static/media/first.png": "/Portif/static/media/first.b2034e55e01e4653e25a.png",
+    "index.html": "/Portif/index.html",
+    "main.bb7cb1da.css.map": "/Portif/static/css/main.bb7cb1da.css.map",
+    "main.fbe35dc1.js.map": "/Portif/static/js/main.fbe35dc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb7cb1da.css",
+    "static/js/main.fbe35dc1.js"
+  ]
+}

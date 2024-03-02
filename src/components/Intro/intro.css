@@ -1,0 +1,84 @@
+#intro{
+    height: 45vw; 
+    width: 100vw;
+    max-width: 75rem;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+}
+.introContent{
+    height: 80vh;
+    width: 100vw;
+    padding: 2rem;
+    font-size: 4rem;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #c3c3c3;
+}
+
+.introName{
+    color: #eeeded;
+}
+.major{
+    font-size: 2.3rem;
+    font-weight: 50;
+}
+.introP{
+    color: #c3c3c3;
+    font-size: 2.3rem;
+    font-weight: 50;
+}
+.ai{
+    color:#eeeded ;
+    font-weight: 750;
+}
+.front{
+    color:#eeeded ;
+    font-weight: 750;
+}
+
+
+
+
+
+.imgg{
+    height: 100%;
+    position: absolute;
+    top: 0;
+    
+}
+
+
+
+
+
+@media screen and (max-width: 768px){
+    .introContent {
+        text-align: center;
+        padding: 1rem;
+        font-size: 12vw; 
+        margin: -5rem -1rem;
+    }
+    
+    #intro {
+        height: auto; 
+        width: 100%; 
+        max-width: 100%; 
+        padding: 1rem; 
+        margin-bottom: 10rem;
+        
+
+    }
+
+    .major, .introP {
+        font-size: 5vw;
+        
+        
+    }
+    .intro .major{
+        margin-bottom: -10rem;
+    }
+}
+
