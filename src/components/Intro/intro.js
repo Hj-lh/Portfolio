@@ -13,7 +13,7 @@ const Intro = () => {
             <span className='introText'>
                 <span className='im' data-aos='fade-down' data-aos-delay="500">I'm</span>
                 <span className='introName'><br/>Abdullah Alhajlah</span><br/> 
-                <span className="major" data-aos='fade-down' data-aos-delay="500">a King Saud University Computer Engineering Student</span>
+                <span className="major" data-aos='fade-down' data-aos-delay="500">King Saud University Computer Engineering Student</span>
             </span>
             <p className='introP' data-aos='fade-in' data-aos-delay="500">
                 with a passion for <span className='front'>front-end development</span> and <span className='ai'>AI</span>
